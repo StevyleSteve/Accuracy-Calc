@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class AccuracyCalc {
 
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
+	//Info windows, follow instructions
         double A;
 		double a;
 		double ad;
